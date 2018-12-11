@@ -1,5 +1,5 @@
-# resume
-
+# 多人博客项目
+8个页面，包含登录注册，博客的增删改查
 > A Vue.js project
 
 ## Build Setup
